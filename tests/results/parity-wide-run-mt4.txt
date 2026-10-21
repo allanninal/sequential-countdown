@@ -1,0 +1,27 @@
+PASS sq_default_BTCUSD_H1           bars  15527 counted 15526 9s  400 13s 102  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_BTCUSD_H4           bars   3882 counted  3881 9s   99 13s  14  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_BTCUSD_M15          bars  62085 counted 62084 9s 1585 13s 400  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_EURUSD_H1           bars  10998 counted 10997 9s  305 13s  68  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_EURUSD_H4           bars   2754 counted  2753 9s   70 13s  17  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_EURUSD_M15          bars  43980 counted 43979 9s 1145 13s 295  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_GBPJPY_H1           bars  10997 counted 10996 9s  266 13s  71  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_GBPJPY_H4           bars   2754 counted  2753 9s   77 13s  16  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_GBPJPY_M15          bars  43978 counted 43977 9s 1110 13s 273  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_XAUUSD_H1           bars  10444 counted 10443 9s  266 13s  68  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_XAUUSD_H4           bars   2730 counted  2729 9s   85 13s  17  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_XAUUSD_M15          bars  41751 counted 41750 9s 1106 13s 261  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_default_ticks_EURUSD_H1     bars   5813 counted  5812 9s  164 13s  30  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_BTCUSD_H1              bars  15527 counted 15526 9s  400 13s 102  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_BTCUSD_H4              bars   3882 counted  3881 9s   99 13s  14  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_BTCUSD_M15             bars  62085 counted 62084 9s 1585 13s 400  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_EURUSD_H1              bars  10998 counted 10997 9s  305 13s  68  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_EURUSD_H4              bars   2754 counted  2753 9s   70 13s  17  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_EURUSD_M15             bars  43980 counted 43979 9s 1145 13s 295  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_GBPJPY_H1              bars  10997 counted 10996 9s  266 13s  71  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_GBPJPY_H4              bars   2754 counted  2753 9s   77 13s  16  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_GBPJPY_M15             bars  43978 counted 43977 9s 1110 13s 273  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_XAUUSD_H1              bars  10444 counted 10443 9s  266 13s  68  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_XAUUSD_H4              bars   2730 counted  2729 9s   85 13s  17  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+PASS sq_long_XAUUSD_M15             bars  41751 counted 41750 9s 1106 13s 261  b0 OK b1 OK b2 OK b3 OK b4 OK b5 OK
+
+ALL PASS (25 files)
